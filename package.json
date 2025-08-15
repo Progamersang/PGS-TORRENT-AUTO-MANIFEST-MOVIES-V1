@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Progamingsang",
   "license": "MIT",
-  "description": "Local movies, series, anime and more imported from many sources (torrends.to, TorrentGalaxy, TPB, YTS, EZTVx, rarbg, 1337x, BluDV, toorgle, Community Movies, Internet Movies,...). Supports formats like .mp4, .mkv",
+  "description": "Auto manifest movies, series, anime and more imported from many sources (torrends.to, TorrentGalaxy, TPB, YTS, EZTVx, rarbg, 1337x, BluDV, toorgle, Community Movies, Internet Movies,...). Supports formats like .mp4, .mkv",
   "dependencies": {
     "@vercel/node": "^5.3.12",
     "@vercel/static-build": "^2.7.18",
