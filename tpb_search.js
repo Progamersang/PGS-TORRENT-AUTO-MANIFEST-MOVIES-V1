@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { getMovieMetadata, getSeriesMetadata } = require('./test1');
+const { getMovieMetadata, getSeriesMetadata } = require('./metadata');
 
 const TPB_URL = process.env.TPB_URL || 'https://apibay.org';
 
