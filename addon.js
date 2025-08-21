@@ -7,7 +7,7 @@ const manifest = {
     id: "com.stremio.pgstorrrent.addon",
     version: "1.0.0",
     name: "PGS TORRENT AUTO MANIFEST MOVIES V1",
-    description: "Auto manifest movies, series, anime and more imported from many sources (torrends.to, TorrentGalaxy, TPB, YTS, EZTVx, rarbg, 1337x, BluDV, toorgle, Community Movies, Internet Movies,...). Supports formats like .mp4, .mkv",
+    description: "Auto manifest movies, series, anime and more imported from many sources (torrends.to, TorrentGalaxy, TPB, YTS, EZTVx, rarbg, 1337x, BluDV, toorgle, Community Movies, Internet Movies,...). Supports formats like .mp4, .mkv. Link github support me: https://github.com/Progamersang/PGS-TORRENT-AUTO-MANIFEST-MOVIES-V1",
     resources: ["stream"],
     types: ["movie", "series"],
     catalogs: [],
